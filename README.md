@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**giovannimalcolm/giovannimalcolm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on graduating the Georgia Tech Coding Bootcamp
@@ -12,4 +9,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about crypto
 - 📫 How to reach me: malcolm.giovanni@gmail.com
 - 😄 Pronouns: he/him/his
--->
