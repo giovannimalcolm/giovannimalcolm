@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
+My name's Giovanni: 
 
 - 🔭 I’m currently working on graduating the Georgia Tech Coding Bootcamp
 - 🌱 I’m currently learning React.js
